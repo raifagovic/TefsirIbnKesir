@@ -1,5 +1,6 @@
 # tefsir-ios
 
+![Logo](logo.png)
 
 # License
 
