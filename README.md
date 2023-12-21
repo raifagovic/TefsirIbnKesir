@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/Swift-5.0-orange.svg" alt="Swift 5.0">
   </a>
   <a href="https://twitter.com/raifagovic">
-    <img src="https://img.shields.io/badge/Contact-Twitter-%231DA1F2.svg" alt="Contact: @raifagovic">
+    <img src="https://img.shields.io/badge/Contact-@raifagovic-%231DA1F2.svg" alt="Contact: @raifagovic">
   </a>
 </p>
 
