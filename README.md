@@ -8,11 +8,8 @@
   <a href="#">
     <img src="https://img.shields.io/badge/Swift-5.0-orange.svg" alt="Swift 5.0">
   </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License: MIT">
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Contact-Email-green.svg" alt="Contact: Email">
+  <a href="https://twitter.com/raifagovic">
+    <img src="https://img.shields.io/badge/Contact-Email-green.svg" alt="Contact: @raifagovic">
   </a>
 </p>
 
