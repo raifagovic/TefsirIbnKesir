@@ -1,6 +1,20 @@
 # tefsir-ios
 
-![Logo](logo.png)
+<p align="center">
+  <img width="50%" style="border-radius: 12px;" src="images/logo.png" alt="Logo">
+</p>
+
+<p align="center">
+  <a href="#">
+    <img src="https://img.shields.io/badge/Swift-5.0-orange.svg" alt="Swift 5.0">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License: MIT">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Contact-Email-green.svg" alt="Contact: Email">
+  </a>
+</p>
 
 # License
 
