@@ -1,7 +1,7 @@
 # tefsir-ios
 
 <p align="center">
-  <img width="50%" style="border-radius: 12px;" src="images/logo.png" alt="Logo">
+  <img width="50%" style="border-radius: 12px;" src="logo.png" alt="Logo">
 </p>
 
 <p align="center">
