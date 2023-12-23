@@ -12,7 +12,3 @@
     <img src="https://img.shields.io/badge/Contact-@raifagovic-%231DA1F2.svg" alt="Contact: @raifagovic">
   </a>
 </p>
-
-# License
-
-This project is licensed under MIT license. See the [LICENSE](LICENSE) file for details.
