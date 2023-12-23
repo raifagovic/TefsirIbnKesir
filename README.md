@@ -1,4 +1,3 @@
-# tefsir-ios
 
 <p align="center">
   <img width="50%" style="border-radius: 12px;" src="logo.png" alt="Logo">
