@@ -17,11 +17,11 @@
 		B347C1352A9A26BD00B78C80 /* VerseListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B347C1342A9A26BD00B78C80 /* VerseListViewController.swift */; };
 		B347C1472AAF019C00B78C80 /* VerseCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = B347C1462AAF019C00B78C80 /* VerseCollectionViewCell.swift */; };
 		B347C1492AB0A11D00B78C80 /* VerseCollectionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B347C1482AB0A11D00B78C80 /* VerseCollectionViewController.swift */; };
-		B37BFBC12AE5515800E78FBE /* tafsir.db in Resources */ = {isa = PBXBuildFile; fileRef = B37BFBC02AE5494B00E78FBE /* tafsir.db */; };
 		B37BFBC72AE5BBE800E78FBE /* Chapter.swift in Sources */ = {isa = PBXBuildFile; fileRef = B37BFBC62AE5BBE800E78FBE /* Chapter.swift */; };
 		B37BFBC92AE5BC1300E78FBE /* Verse.swift in Sources */ = {isa = PBXBuildFile; fileRef = B37BFBC82AE5BC1300E78FBE /* Verse.swift */; };
 		B386149F2A80FD470009E5AC /* ChapterTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = B386149E2A80FD470009E5AC /* ChapterTableViewCell.swift */; };
 		B38614A32A83D7FF0009E5AC /* DatabaseManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = B38614A22A83D7FF0009E5AC /* DatabaseManager.swift */; };
+		B38694A62B3859C500596FC0 /* tafsir.db in Resources */ = {isa = PBXBuildFile; fileRef = B38694A52B3859C500596FC0 /* tafsir.db */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -36,11 +36,11 @@
 		B347C1342A9A26BD00B78C80 /* VerseListViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VerseListViewController.swift; sourceTree = "<group>"; };
 		B347C1462AAF019C00B78C80 /* VerseCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VerseCollectionViewCell.swift; sourceTree = "<group>"; };
 		B347C1482AB0A11D00B78C80 /* VerseCollectionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VerseCollectionViewController.swift; sourceTree = "<group>"; };
-		B37BFBC02AE5494B00E78FBE /* tafsir.db */ = {isa = PBXFileReference; lastKnownFileType = file; name = tafsir.db; path = ../../../../TafsirDatabaseScript/Sources/TafsirDatabaseScript/tafsir.db; sourceTree = "<group>"; };
 		B37BFBC62AE5BBE800E78FBE /* Chapter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Chapter.swift; sourceTree = "<group>"; };
 		B37BFBC82AE5BC1300E78FBE /* Verse.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Verse.swift; sourceTree = "<group>"; };
 		B386149E2A80FD470009E5AC /* ChapterTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChapterTableViewCell.swift; sourceTree = "<group>"; };
 		B38614A22A83D7FF0009E5AC /* DatabaseManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DatabaseManager.swift; sourceTree = "<group>"; };
+		B38694A52B3859C500596FC0 /* tafsir.db */ = {isa = PBXFileReference; lastKnownFileType = file; path = tafsir.db; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,18 +79,10 @@
 				B37BFBC52AE5B5CB00E78FBE /* VerseList */,
 				B37BFBCE2AE70BDC00E78FBE /* VerseCommentary */,
 				B37BFBC42AE58DC100E78FBE /* Service */,
-				B37BFBBF2AE547F400E78FBE /* Resources */,
+				B38694A42B38598800596FC0 /* Resources */,
 				B37BFBC22AE58A5C00E78FBE /* Assets */,
 			);
 			path = TefsirIbnKesir;
-			sourceTree = "<group>";
-		};
-		B37BFBBF2AE547F400E78FBE /* Resources */ = {
-			isa = PBXGroup;
-			children = (
-				B37BFBC02AE5494B00E78FBE /* tafsir.db */,
-			);
-			path = Resources;
 			sourceTree = "<group>";
 		};
 		B37BFBC22AE58A5C00E78FBE /* Assets */ = {
@@ -213,6 +205,14 @@
 			path = view;
 			sourceTree = "<group>";
 		};
+		B38694A42B38598800596FC0 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				B38694A52B3859C500596FC0 /* tafsir.db */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -279,7 +279,7 @@
 			files = (
 				B32620652A5C0B7300F64E34 /* LaunchScreen.storyboard in Resources */,
 				B32620622A5C0B7300F64E34 /* Assets.xcassets in Resources */,
-				B37BFBC12AE5515800E78FBE /* tafsir.db in Resources */,
+				B38694A62B3859C500596FC0 /* tafsir.db in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
