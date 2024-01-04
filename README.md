@@ -1,8 +1,8 @@
-<p align="center">
-  <img src="README_Mockups/mockup1.png" width="300" style="margin-right: 10px;"/>
-  <img src="README_Mockups/mockup2.png" width="300" style="margin-right: 10px;"/>
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <img src="README_Mockups/mockup1.png" width="300" />
+  <img src="README_Mockups/mockup2.png" width="300" />
   <img src="README_Mockups/mockup3.png" width="300" />
-</p>
+</div>
 
 <p align="center">
   <a href="#">
