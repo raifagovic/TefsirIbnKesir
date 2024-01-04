@@ -1,8 +1,8 @@
-<div style="display: flex; gap: 10px;">
-  <img src="README_Mockups/mockup1.png" style="flex: 1; max-width: 300px;" />
-  <img src="README_Mockups/mockup2.png" style="flex: 1; max-width: 300px;" />
-  <img src="README_Mockups/mockup3.png" style="flex: 1; max-width: 300px;" />
-</div>
+<p align="center">
+  <img src="Documentation/README_Mockups/mockup1.png" width="30%" />
+  <img src="Documentation/README_Mockups/mockup2.png" width="30%" />
+  <img src="Documentation/README_Mockups/mockup3.png" width="30%" />
+</p>
 
 
 <p align="center">
