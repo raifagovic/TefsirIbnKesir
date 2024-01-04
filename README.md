@@ -1,8 +1,9 @@
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <img src="README_Mockups/mockup1.png" width="300" />
-  <img src="README_Mockups/mockup2.png" width="300" />
-  <img src="README_Mockups/mockup3.png" width="300" />
+<div style="display: flex; gap: 10px;">
+  <img src="README_Mockups/mockup1.png" style="flex: 1; max-width: 300px;" />
+  <img src="README_Mockups/mockup2.png" style="flex: 1; max-width: 300px;" />
+  <img src="README_Mockups/mockup3.png" style="flex: 1; max-width: 300px;" />
 </div>
+
 
 <p align="center">
   <a href="#">
