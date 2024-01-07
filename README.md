@@ -22,3 +22,6 @@ Tefsir Ibn Kesir iOS app is a simple and user-friendly application designed to p
 ## Author
 [Raif Agović](https://twitter.com/raifagovic)
 
+## License
+Tefsir Ibn Kesir is licensed under the MIT license. Check the [LICENSE](LICENSE) file for details.
+
